@@ -1,0 +1,29 @@
+﻿  Function.cpp
+C:\Users\tjufe\Desktop\PB21010456杨隽祎\Function.cpp(13,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\tjufe\Desktop\PB21010456杨隽祎\Function.cpp(14,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\tjufe\Desktop\PB21010456杨隽祎\Function.cpp(32,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\tjufe\Desktop\PB21010456杨隽祎\Function.cpp(59,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\tjufe\Desktop\PB21010456杨隽祎\Function.cpp(131,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\tjufe\Desktop\PB21010456杨隽祎\Function.cpp(132,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\tjufe\Desktop\PB21010456杨隽祎\Function.cpp(148,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\tjufe\Desktop\PB21010456杨隽祎\Function.cpp(158,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\tjufe\Desktop\PB21010456杨隽祎\Function.cpp(159,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\tjufe\Desktop\PB21010456杨隽祎\Function.cpp(171,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\tjufe\Desktop\PB21010456杨隽祎\Function.cpp(172,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\tjufe\Desktop\PB21010456杨隽祎\Function.cpp(183,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\tjufe\Desktop\PB21010456杨隽祎\Function.cpp(184,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\tjufe\Desktop\PB21010456杨隽祎\Function.cpp(194,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\tjufe\Desktop\PB21010456杨隽祎\Function.cpp(195,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\tjufe\Desktop\PB21010456杨隽祎\Function.cpp(203,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\tjufe\Desktop\PB21010456杨隽祎\Function.cpp(204,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\tjufe\Desktop\PB21010456杨隽祎\Function.cpp(259,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\tjufe\Desktop\PB21010456杨隽祎\Function.cpp(351,12): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\tjufe\Desktop\PB21010456杨隽祎\Function.cpp(368,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\tjufe\Desktop\PB21010456杨隽祎\Function.cpp(369,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\tjufe\Desktop\PB21010456杨隽祎\Function.cpp(370,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\tjufe\Desktop\PB21010456杨隽祎\Function.cpp(389,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\tjufe\Desktop\PB21010456杨隽祎\Function.cpp(390,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\tjufe\Desktop\PB21010456杨隽祎\Function.cpp(490,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\tjufe\Desktop\PB21010456杨隽祎\Function.cpp(491,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\tjufe\Desktop\PB21010456杨隽祎\Function.cpp(128): warning C4715: “get”: 不是所有的控件路径都返回值
+  hw8.vcxproj -> C:\Users\tjufe\Desktop\PB21010456杨隽祎\x64\Debug\hw8.exe
